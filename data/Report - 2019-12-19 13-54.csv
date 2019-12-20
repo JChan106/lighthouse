@@ -1,0 +1,8 @@
+Name,Resin,Score,TTFB,FCP,FMP,SPI,TTI,FID,TBT
+Shared Folder (Collab),files|internalshared,0.64,1106.14,2239.73,4455.97,3870.00,7490.05,207.78,471.44
+Expiring Embed,fileembedviatoken,0.98,1085.50,1319.98,2442.86,2050.00,2442.11,77.70,54.49
+Shared Folder,sharedfolderpage,0.87,882.81,1911.87,3809.14,3383.00,4139.94,106.83,116.33
+Shared Link (Private Folder),sharedfile,0.89,1238.30,2175.81,2175.81,3462.00,3960.01,76.23,32.44
+Shared Link (Collab Folder),files|externalshared,0.69,1128.60,1984.54,6494.29,3607.00,6466.41,222.28,403.87
+Direct Link (Collab Folder),files|ownshared,0.76,980.06,1760.06,4070.84,3449.00,5995.60,264.98,496.41
+Direct Link (Private Folder),files|ownedprivate,0.7,1041.70,1923.59,3148.16,3941.00,6907.93,361.63,826.48
