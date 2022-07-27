@@ -16,7 +16,7 @@ const chromeLauncher = require('chrome-launcher');
     }
 
     const results = [];
-    const x = 5;
+    const x = 100;
     
     for (let i = 0; i < x; i++) {
         const runnerResult = await lighthouse('https://app.jackiechan.inside-box.net/s/faqzaw9svtl3vk70cylxe7kbkmtrl4r7', options);
